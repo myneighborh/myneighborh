@@ -1,6 +1,3 @@
-## Blog
-- [myneighborh.github.io](https://myneighborh.github.io)
-
 ## Projects
 - [ROS-Based Disaster Search & Rescue Robot System](https://github.com/addinedu-ros-7th/ros-repo-4)
 - [AI Healthcare System](https://github.com/addinedu-ros-7th/deeplearning-repo-5)
